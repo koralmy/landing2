@@ -35,7 +35,7 @@ p {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 46.875rem;
+  height: 35.3rem;
   text-align: center;
 }
 
@@ -90,4 +90,6 @@ form {
   .title {
     max-height: 25rem;
   }
+
+
 }
