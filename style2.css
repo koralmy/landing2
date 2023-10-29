@@ -228,8 +228,7 @@ button:hover {
 
 
   .icons {
-    display: grid;
-    grid-template-columns: repeat(3,80px);
+    display: flex;
   
   }
 
